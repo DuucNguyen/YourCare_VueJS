@@ -5,7 +5,7 @@ import viteConfig from "./vite.config";
 export default mergeConfig(
     viteConfig,
     defineConfig({
-        base: "/YourCare_FE/",
+        base: "/YourCare_VueJS/",
         test: {
             environment: "jsdom",
             exclude: [...configDefaults.exclude, "e2e/**"],
