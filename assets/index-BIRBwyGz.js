@@ -1,0 +1,1 @@
+import{U as t}from"./UserSideBar-DjporkIb.js";import{c as a,a as r,b as o,f as s}from"./index-BuSN-fz1.js";const n={class:"d-flex"},d={__name:"index",setup(i){return(l,e)=>(s(),a("div",n,[r(t,{page:"patientProfile"}),e[0]||(e[0]=o("h1",null,"PatientProfile",-1))]))}};export{d as default};
