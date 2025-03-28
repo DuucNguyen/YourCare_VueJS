@@ -13,6 +13,7 @@
   "dependencies": {
     "@ant-design/icons-vue": "^7.0.1",
     "ant-design-vue": "^4.2.6",
+    "axios": "^1.8.4",
     "bootstrap": "^5.3.3",
     "boxicons": "^2.1.4",
     "dayjs": "^1.11.13",
