@@ -1,0 +1,1 @@
+import{c as a,a as e,b as o,q as t,P as r,F as s,f as c}from"./index-BYc9s0ur.js";import{_}from"./Header-CR18rHu1.js";/* empty css                                                                      */const n={class:"doctor_layout_container"},f={__name:"_doctorLayout",setup(m){return(i,u)=>(c(),a(s,null,[e(_),o("div",n,[e(t(r))])],64))}};export{f as default};
