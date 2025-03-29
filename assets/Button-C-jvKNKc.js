@@ -1,0 +1,1 @@
+import{_ as e,L as o,c,f as i,t as l,O as n}from"./index-DcBChuST.js";const d=["disabled"],r={__name:"Button",props:["title","isDisabled"],setup(s){const t=s,a=o(()=>({disabled:t.isDisabled}));return(_,p)=>(i(),c("button",{class:n(["button",a.value]),disabled:t.isDisabled},l(s.title),11,d))}},u=e(r,[["__scopeId","data-v-ce8ca9a5"]]);export{u as B};

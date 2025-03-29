@@ -1,1 +1,0 @@
-import{c as a,a as e,b as o,q as t,P as r,F as s,f as c}from"./index-BuSN-fz1.js";import{_}from"./Header-BWAKontN.js";/* empty css                                                                      */const n={class:"doctor_layout_container"},f={__name:"_doctorLayout",setup(m){return(i,u)=>(c(),a(s,null,[e(_),o("div",n,[e(t(r))])],64))}};export{f as default};
