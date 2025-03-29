@@ -1,1 +1,0 @@
-import{c as a,a as e,b as s,q as t,P as r,F as o,f as c}from"./index-ruO88dao.js";import{_ as n}from"./Header-RVBP2QnB.js";const _={class:"container"},p={__name:"_userLayout",setup(m){return(u,i)=>(c(),a(o,null,[e(n),s("div",_,[e(t(r))])],64))}};export{p as default};
